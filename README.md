@@ -26,7 +26,7 @@ There are several problems with the current system of medical records, which are
 
 
 Overall, these problems with current medical records systems highlight the need for more modern, secure, and interoperable solutions that prioritize patient privacy and provide patients and healthcare providers with easy access to accurate and complete medical information, which is what we are trying to achieve with DocuMed.
- 
+
 Product Overview
 
 Functions of DocuMed
